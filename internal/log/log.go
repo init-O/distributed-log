@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	api "github.con/init-O/proglog/api/v1"
+	api "github.con/init-O/distributed-log/api/v1"
 )
 
 type Log struct {
